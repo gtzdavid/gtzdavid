@@ -1,26 +1,25 @@
-# ¡Hola! Soy David Gutiérrez Castro  
+# 👋 Hi! I'm David Gutiérrez Castro  
 
-## 👨‍🎓 Sobre mí
-Soy estudiante de **Ingeniería en Ciencia de Datos** en el **ITESO**, apasionado por las **matemáticas**, especialmente la parte **probabilística** y su aplicación en problemas reales de la ciencia de datos.  
+## 👨‍🎓 About Me
+I am a student of **Data Science Engineering** at [ITESO](https://www.iteso.mx/), passionate about mathematics, especially the probabilistic part and its application to real-world data science problems.  
 
-## 💼 Experiencia
-- 📊 **Proyectos escolares**: Desarrollo de modelos de **regresión y clasificación** para mejorar resultados predictivos.  
-- 💻 **IDEIKA (1 año)**: Experiencia en **Front-End**, solución de **bugs** y trabajo con **bases de datos**.  
+## 🌱 My Favorite Part of the Career
+- Applying mathematics in data science  
+- Probabilistic models applied to real-world problems  
+- Machine learning and predictive modeling  
 
-## 🛠️ Lenguajes y Tecnologías
+## 💼 Experience
+- 📊 **School Projects**: Development of **regression and classification** models to improve predictive results.  
+- 💻 [IDEIKA](https://ideika.com.mx/) (1 year): Experience in **Front-End**, bug fixing, and working with **databases**.
+
+📫 How to reach me: gtzdavid200@gmail.com 
+
+## 🛠️ Languages & Technologies
 ```text
 Jupyter Notebook   ████████████████████████████████  60%  
 Python             ██████████████████                32%  
 SQL                ██                                5%  
 C#                 █                                 3%  
 
-## Mi parte favorita de la carrera
-- Uso de las matemáticas en la ciencia de datos  
-- Modelos probabilísticos aplicados a problemas reales  
-- Aprendizaje automático y predicción de datos  
 
-## Datos de contacto
-- 📧 **Correo:** [gtzdavid200@gmail.com](mailto:gtzdavid200@gmail.com)  
-- 💼 **LinkedIn:** [in/david-gutierrez-castro](https://www.linkedin.com/in/david-gutierrez-castro)  
-- 📍 Guadalajara, México  
-- 🎓 ITESO  
+
