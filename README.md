@@ -13,3 +13,14 @@ Jupyter Notebook   ████████████████████�
 Python             ██████████████████                32%  
 SQL                ██                                5%  
 C#                 █                                 3%  
+
+## Mi parte favorita de la carrera
+- Uso de las matemáticas en la ciencia de datos  
+- Modelos probabilísticos aplicados a problemas reales  
+- Aprendizaje automático y predicción de datos  
+
+## Datos de contacto
+- 📧 **Correo:** [gtzdavid200@gmail.com](mailto:gtzdavid200@gmail.com)  
+- 💼 **LinkedIn:** [in/david-gutierrez-castro](https://www.linkedin.com/in/david-gutierrez-castro)  
+- 📍 Guadalajara, México  
+- 🎓 ITESO  
