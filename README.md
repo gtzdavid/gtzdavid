@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy David Gutiérrez Castro  
 
-<!--
-**gtzdavid/gtzdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 Sobre mí
+Soy estudiante de **Ingeniería en Ciencia de Datos** en el **ITESO**, apasionado por las **matemáticas**, especialmente la parte **probabilística** y su aplicación en problemas reales de la ciencia de datos.  
 
-Here are some ideas to get you started:
+## 💼 Experiencia
+- 📊 **Proyectos escolares**: Desarrollo de modelos de **regresión y clasificación** para mejorar resultados predictivos.  
+- 💻 **IDEIKA (1 año)**: Experiencia en **Front-End**, solución de **bugs** y trabajo con **bases de datos**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Lenguajes y Tecnologías
+```text
+Jupyter Notebook   ████████████████████████████████  60%  
+Python             ██████████████████                32%  
+SQL                ██                                5%  
+C#                 █                                 3%  
