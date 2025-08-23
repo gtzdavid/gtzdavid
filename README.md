@@ -1,7 +1,7 @@
 # 👋 Hi! I'm David Gutiérrez Castro  
 
 ## 👨‍🎓 About Me
-I am a student of **Data Science Engineering** at [ITESO](https://www.iteso.mx/), passionate about mathematics, especially the probabilistic part and its application to real-world data science problems.  
+I am a student of **Data Science Engineering** at [ITESO](https://www.iteso.mx/), I like mathematics, especially the probabilistic part and its application to real-world data science problems.  
 
 ## 🌱 My Favorite Part of the Career
 - Applying mathematics in data science  
